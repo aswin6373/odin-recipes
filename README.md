@@ -1,6 +1,6 @@
 # Odin Recipes
 
-Odin Recipes is a simple HTML project showcasing a collection of delicious recipes. This project demonstrates the use of basic HTML structure and linking between different pages.
+Odin Recipes is a simple HTML project showcasing a collection of delicious recipes. This project demonstrates the use of basic HTML structure, CSS styling, and linking between different pages.
 
 ## Project Structure
 
@@ -12,6 +12,7 @@ The project consists of a main page (`index.html`) that links to individual reci
 - `recipes/Chicken-Enchilada-Slow-Cooker-Soup.html`: Recipe page for Chicken Enchilada Slow Cooker Soup.
 - `recipes/Slow-Cooker-Pepper-Steak.html`: Recipe page for Slow-Cooker Pepper Steak.
 - `recipes/Warm-Berry-Compote.html`: Recipe page for Warm Berry Compote.
+- `styles.css`: The stylesheet for the project.
 
 ## Recipes
 
@@ -38,6 +39,13 @@ The project consists of a main page (`index.html`) that links to individual reci
 1. Clone the repository.
 2. Open `index.html` in your web browser to view the main page.
 3. Click on any recipe link to view the details of that recipe.
+
+## Enhancements
+
+- Made images on the homepage clickable links.
+- Set background color to white and font color to black.
+- Increased the distance between list items and images.
+- Applied 3D effect on image hover using box-shadow, transition, and transform properties.
 
 ## License
 
